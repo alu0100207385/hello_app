@@ -1,5 +1,7 @@
 # README
 
+Course from https://www.railstutorial.org/book/beginning, chapter 1: From zero to Deploy
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
